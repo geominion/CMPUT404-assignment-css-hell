@@ -3,6 +3,8 @@ Assignment: CSS Hell
 
 I deleted a single line of code from one of the documents that was related to XML. Otherwise the I touched nothing within the Gutenburg pages except the CSS.
 
+All images used for the second part are linked, so no photo upload was necessary.
+
 License/Copyright
 =================
 Textual content is copyright Joshua Dunsmuir (C) 2014 under the CC-BY-SA
